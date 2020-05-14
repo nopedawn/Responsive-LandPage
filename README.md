@@ -1,4 +1,4 @@
-Build Responsive Landing Page without using framework:
+Build Responsive Landing Page without using any framework:
 - HTML 
 - CSS
 
